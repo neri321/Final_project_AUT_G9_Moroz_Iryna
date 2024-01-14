@@ -1,0 +1,7 @@
+selenium==4.15.2
+pytest_xdist==3.5.0
+
+webdriver-manager==4.0.0
+jupyter~=1.0.0
+pip~=23.3.2
+requests~=2.31.0
